@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB5.Labclinic.Data", "LAB5.Labclinic.Data\LAB5.Labclinic.Data.csproj", "{FEB11DC7-D24A-4585-99A5-2A02CE4A084E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB5.Labclinic.Web", "LAB5.Labclinic.Web\LAB5.Labclinic.Web.csproj", "{F567BBD2-6BFD-42E2-98B9-D5B4E51486E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB11DC7-D24A-4585-99A5-2A02CE4A084E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB11DC7-D24A-4585-99A5-2A02CE4A084E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB11DC7-D24A-4585-99A5-2A02CE4A084E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB11DC7-D24A-4585-99A5-2A02CE4A084E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F567BBD2-6BFD-42E2-98B9-D5B4E51486E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F567BBD2-6BFD-42E2-98B9-D5B4E51486E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F567BBD2-6BFD-42E2-98B9-D5B4E51486E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F567BBD2-6BFD-42E2-98B9-D5B4E51486E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
